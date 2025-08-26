@@ -1,4 +1,4 @@
-# Prototypes and tests – figma-smart-search
+# Prototypes and tests – figma-smart-search - Dynamic search test
 
 React + TypeScript + Vite prototype for a dynamic search bar with operators and type-aware inputs.
 
